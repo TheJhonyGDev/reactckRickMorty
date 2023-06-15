@@ -26,6 +26,7 @@ export default function Characters(props) {
                     <span className="dead"></span>
                     Dead
                   </>
+                  
                 )}
               </h6>
               <p>
